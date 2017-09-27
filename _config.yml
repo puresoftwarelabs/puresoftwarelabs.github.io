@@ -2,7 +2,7 @@ url: https://puresoftwarelabs.com
 baseurl: 
 
 # Site settings
-title: Awesome Title
+title: Pure Software Labs
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -11,35 +11,13 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Carlos Riveros
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
   position: Lead Developer
   social:
-    - title: twitter
+    - title: linkedin
       url: #
-    - title: facebook
+    - title: github
       url: #
-    - title: google-plus
+    - title: stack-overflow
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
